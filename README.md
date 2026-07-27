@@ -5,6 +5,6 @@ https://youtu.be/zYv15vceFF8?si=xGUdqOECtGuyuLz2
 ## Contains 
 -Kicad_pcb
 -Kicad_sch
--Kicad_prl
+-Kicad_pro
 
 If you found this helpful, please like 
