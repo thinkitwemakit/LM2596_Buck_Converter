@@ -1,5 +1,6 @@
 # LM2596_Buck_Converter
-This repository contains the KiCad files for LM2596 Buck converter on my youtube channel 
+This repository contains the KiCad files for LM2596 Buck converter on my youtube channel
+The files were created using Kicad V9.0 
 #Youtube
 https://youtu.be/zYv15vceFF8?si=xGUdqOECtGuyuLz2
 ## Contains 
